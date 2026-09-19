@@ -68929,7 +68929,7 @@ if(s==null){throw"DeferredLoading state error: code with hash '"+a+"' was not lo
 v.deferredInitialized[a]=true},
 deferredLibraryParts:{home_screen:[0,1,2,3],settings_screen:[0,2,4],splash_screen:[0,1,5]},
 deferredPartUris:["main.dart.js_3.part.js","main.dart.js_5.part.js","main.dart.js_2.part.js","main.dart.js_4.part.js","main.dart.js_1.part.js","main.dart.js_6.part.js"],
-deferredPartHashes:["gTb7QDExFHblB/YKU1s4nTOfOBk=","ZI1ohLei5utYzXPeV+mnoBsdQB4=","LCD7zOFU6hV6TLlhSolc6Fu8v5k=","P5EF2cc/PMDBm1ztT403sxWIkPE=","tZjb6pONc2ng6NLotOEd3hpWo98=","KD+YBst76oIDuEUSI9Uixa7ClrQ="],
+deferredPartHashes:["gTb7QDExFHblB/YKU1s4nTOfOBk=","ZI1ohLei5utYzXPeV+mnoBsdQB4=","LCD7zOFU6hV6TLlhSolc6Fu8v5k=","P5EF2cc/PMDBm1ztT403sxWIkPE=","9IEciBXnR4v+F3VNDEhdj2H2GOc=","AepavebfuAhRAkGdkYC/8MC06Q0="],
 typeUniverse:{eC:new Map(),tR:{},eT:{},tPV:{},sEA:[]},
 mangledGlobalNames:{k:"int",E:"double",d6:"num",v:"String",F:"bool",aU:"Null",S:"List",D:"Object",b7:"Map",aE:"JSObject"},
 mangledNames:{},

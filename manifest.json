@@ -4,7 +4,7 @@
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FAF8FF",
-    "theme_color": "#082E6E",
+    "theme_color": "#FAF8FF",
     "description": "Rayyansim Morse",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
