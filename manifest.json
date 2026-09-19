@@ -1,11 +1,11 @@
 {
-    "name": "morse_app",
-    "short_name": "morse_app",
+    "name": "Rayyansim Morse",
+    "short_name": "Rayyansim Morse",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#fffbff",
-    "theme_color": "#fffbff",
-    "description": "A new Flutter project.",
+    "background_color": "#FAF8FF",
+    "theme_color": "#082E6E",
+    "description": "Rayyansim Morse",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
